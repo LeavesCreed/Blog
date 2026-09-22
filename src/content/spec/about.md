@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+古法编程时代的个人博客。
+大概放一些我自己瞎写的东西，不奢望有人能够喜欢，只是希望自己能享受在打字时的平静。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+我会在这里保持克制，减少使用AI的内容。当然，这不是说ai生成的内容我不用，只是需要区分开，不在这里做展示。毕竟这是个人博客，不是AI博客
+
+多一点自己的思考总是好的。
